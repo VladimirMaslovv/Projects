@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QWE", "QWE\QWE.csproj", "{A88AC24E-96B6-4465-8E37-FD406C38A941}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A88AC24E-96B6-4465-8E37-FD406C38A941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A88AC24E-96B6-4465-8E37-FD406C38A941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A88AC24E-96B6-4465-8E37-FD406C38A941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A88AC24E-96B6-4465-8E37-FD406C38A941}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBE1E350-D1E3-436D-9000-B599B7B10F72}
+	EndGlobalSection
+EndGlobal

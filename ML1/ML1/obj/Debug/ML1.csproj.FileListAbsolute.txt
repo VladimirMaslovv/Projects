@@ -1,0 +1,21 @@
+Z:\Общая для записи студентам\205 гр\Маслов.Кувакин\ML1\ML1\bin\Debug\ML1.exe.config
+Z:\Общая для записи студентам\205 гр\Маслов.Кувакин\ML1\ML1\bin\Debug\ML1.exe
+Z:\Общая для записи студентам\205 гр\Маслов.Кувакин\ML1\ML1\bin\Debug\ML1.pdb
+Z:\Общая для записи студентам\205 гр\Маслов.Кувакин\ML1\ML1\obj\Debug\ML1.csprojAssemblyReference.cache
+Z:\Общая для записи студентам\205 гр\Маслов.Кувакин\ML1\ML1\obj\Debug\ML1.Form1.resources
+Z:\Общая для записи студентам\205 гр\Маслов.Кувакин\ML1\ML1\obj\Debug\ML1.Properties.Resources.resources
+Z:\Общая для записи студентам\205 гр\Маслов.Кувакин\ML1\ML1\obj\Debug\ML1.csproj.GenerateResource.cache
+Z:\Общая для записи студентам\205 гр\Маслов.Кувакин\ML1\ML1\obj\Debug\ML1.csproj.CoreCompileInputs.cache
+Z:\Общая для записи студентам\205 гр\Маслов.Кувакин\ML1\ML1\obj\Debug\ML1.exe
+Z:\Общая для записи студентам\205 гр\Маслов.Кувакин\ML1\ML1\obj\Debug\ML1.pdb
+C:\Users\Студент\Desktop\ML1\ML1\bin\Debug\ML1.exe.config
+C:\Users\Студент\Desktop\ML1\ML1\bin\Debug\ML1.exe
+C:\Users\Студент\Desktop\ML1\ML1\bin\Debug\ML1.pdb
+C:\Users\Студент\Desktop\ML1\ML1\obj\Debug\ML1.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\ML1\ML1\obj\Debug\ML1.Form1.resources
+C:\Users\Студент\Desktop\ML1\ML1\obj\Debug\ML1.Properties.Resources.resources
+C:\Users\Студент\Desktop\ML1\ML1\obj\Debug\ML1.csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\ML1\ML1\obj\Debug\ML1.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\ML1\ML1\obj\Debug\ML1.exe
+C:\Users\Студент\Desktop\ML1\ML1\obj\Debug\ML1.pdb
+Z:\Общая для записи студентам\205 гр\Маслов.Кувакин\ML1\ML1\bin\Debug\Resources\map.png

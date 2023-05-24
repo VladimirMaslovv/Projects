@@ -1,0 +1,11 @@
+Z:\Общая для записи студентам\205 гр\Маслов.Кувакин\QWE\QWE\obj\Debug\QWE.csprojAssemblyReference.cache
+Z:\Общая для записи студентам\205 гр\Маслов.Кувакин\QWE\QWE\obj\Debug\QWE.csproj.CoreCompileInputs.cache
+Z:\Общая для записи студентам\205 гр\Маслов.Кувакин\QWE\QWE\bin\Debug\QWE.exe.config
+Z:\Общая для записи студентам\205 гр\Маслов.Кувакин\QWE\QWE\bin\Debug\QWE.exe
+Z:\Общая для записи студентам\205 гр\Маслов.Кувакин\QWE\QWE\bin\Debug\QWE.pdb
+Z:\Общая для записи студентам\205 гр\Маслов.Кувакин\QWE\QWE\obj\Debug\QWE.exe
+Z:\Общая для записи студентам\205 гр\Маслов.Кувакин\QWE\QWE\obj\Debug\QWE.pdb
+G:\Общая для записи студентам\205 гр\Маслов.Кувакин\QWE\QWE\obj\Debug\QWE.exe
+G:\Общая для записи студентам\205 гр\Маслов.Кувакин\QWE\QWE\obj\Debug\QWE.pdb
+G:\Общая для записи студентам\205 гр\Маслов.Кувакин\QWE\QWE\obj\Debug\QWE.csprojAssemblyReference.cache
+G:\Общая для записи студентам\205 гр\Маслов.Кувакин\QWE\QWE\obj\Debug\QWE.csproj.CoreCompileInputs.cache
