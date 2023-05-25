@@ -1,0 +1,14 @@
+Z:\Общая для записи студентам\205 гр\Маслов.Кувакин\Muravey\Muravey\bin\Debug\Muravey.exe.config
+Z:\Общая для записи студентам\205 гр\Маслов.Кувакин\Muravey\Muravey\bin\Debug\Muravey.exe
+Z:\Общая для записи студентам\205 гр\Маслов.Кувакин\Muravey\Muravey\bin\Debug\Muravey.pdb
+Z:\Общая для записи студентам\205 гр\Маслов.Кувакин\Muravey\Muravey\obj\Debug\Muravey.csprojAssemblyReference.cache
+Z:\Общая для записи студентам\205 гр\Маслов.Кувакин\Muravey\Muravey\obj\Debug\Muravey.csproj.CoreCompileInputs.cache
+Z:\Общая для записи студентам\205 гр\Маслов.Кувакин\Muravey\Muravey\obj\Debug\Muravey.exe
+Z:\Общая для записи студентам\205 гр\Маслов.Кувакин\Muravey\Muravey\obj\Debug\Muravey.pdb
+G:\Общая для записи студентам\205 гр\Маслов.Кувакин\Muravey\Muravey\bin\Debug\Muravey.exe.config
+G:\Общая для записи студентам\205 гр\Маслов.Кувакин\Muravey\Muravey\bin\Debug\Muravey.exe
+G:\Общая для записи студентам\205 гр\Маслов.Кувакин\Muravey\Muravey\bin\Debug\Muravey.pdb
+G:\Общая для записи студентам\205 гр\Маслов.Кувакин\Muravey\Muravey\obj\Debug\Muravey.csprojAssemblyReference.cache
+G:\Общая для записи студентам\205 гр\Маслов.Кувакин\Muravey\Muravey\obj\Debug\Muravey.csproj.CoreCompileInputs.cache
+G:\Общая для записи студентам\205 гр\Маслов.Кувакин\Muravey\Muravey\obj\Debug\Muravey.exe
+G:\Общая для записи студентам\205 гр\Маслов.Кувакин\Muravey\Muravey\obj\Debug\Muravey.pdb
